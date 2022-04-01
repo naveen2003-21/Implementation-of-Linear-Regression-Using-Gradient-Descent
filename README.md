@@ -21,7 +21,7 @@ To write a program to implement the linear regression using gradient descent.
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: naveenkumar
-RegisterNumber:212221230082
+RegisterNumber:212221240032
 */
 import numpy as np
 import pandas as pd
@@ -59,6 +59,8 @@ plt.ylabel("loss")
 ```
 
 ## Output:
+output1:![image](https://user-images.githubusercontent.com/94387019/161297540-533e9521-e992-4f7b-a423-52bd56b61d18.png)
+
 
 
 
